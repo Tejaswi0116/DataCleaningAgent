@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+openpyxl
+xlrd
+pyarrow
+sqlalchemy
+pymysql
+psycopg2-binary
+plotly
+google-genai
